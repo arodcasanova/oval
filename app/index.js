@@ -1,2 +1,2 @@
 var app = document.getElementById('app');
-app.innerHTML = "hi";
+app.innerHTML = "Hello, word!";
